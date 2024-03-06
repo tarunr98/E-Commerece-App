@@ -1,0 +1,22 @@
+.mainContainer{
+    text-align: center;
+    padding-left: 200px;
+    padding-top: 50px;
+}
+.row{
+    text-align: center;
+}
+.marquee{
+    padding-top: 7px;
+    padding-bottom: 7px;
+    width:  80%;
+    background-color: #FF9900;
+    color: black;
+    white-space: nowrap;
+}
+.carousel{
+    padding-top: 150px;
+    padding-left: 70px;
+    max-width: 400px ;
+    max-height: 400px;
+}

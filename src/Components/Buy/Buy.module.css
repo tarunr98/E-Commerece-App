@@ -1,0 +1,56 @@
+.outer{
+    text-align: center;
+    align-items: center;
+}
+.inner{
+    width: auto;
+}
+.address{
+    text-align: center;
+    padding-top: 40px;
+    padding-left: 400px;
+    padding-right: 300px;
+    /* max-width: 500px; */
+}
+.productsDiv{
+    text-align: center;
+    padding-top: 40px;
+    padding-right: 250px;
+    padding-left: 300px;
+}
+.productsCard{
+    text-align: left;
+    max-width: 600px;
+}
+.card{
+    max-width: 400px;
+    text-align: left;
+}
+.ul{
+    list-style-type: none;
+    overflow: hidden;
+}
+.ul1{
+    list-style-type: none;
+    text-align: right;
+    overflow: hidden;
+    padding-top: 10px;
+}
+.ul1 li{
+    float: right;
+    padding-left: 10px;
+}
+.products{
+    list-style-type: telugu;
+    overflow: hidden;
+}
+.products li{
+    float: left;
+}
+.row{
+    width: 100%;
+    padding-bottom: 5px;
+}
+.button{
+    border: none;
+}

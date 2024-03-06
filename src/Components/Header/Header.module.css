@@ -1,0 +1,57 @@
+.container{
+    background-color: rgb(143, 231, 220);
+  }
+  .unorderedlist {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  .listitem {
+    float: right;
+    padding-right: 20px;
+  }
+  .listitem p {
+    color: whitesmoke;
+    padding-top: 10px;
+  }
+  .cartComponent{
+    float: right;
+    padding-right:20px;
+  }
+  .cartComponent button{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color: #388bb2 ;  
+    border: none;
+  }
+  .homeComponent{
+    float: left;
+  }
+  .homeComponent button{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color: #4CAF50 ;  
+    border: none;
+  }
+  .logOut{
+    float: right;
+    padding-right:20px;
+  }
+  .logOut button{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color: #ee1818 ;  
+    border: none;
+  }
+  

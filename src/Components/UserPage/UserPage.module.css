@@ -1,0 +1,12 @@
+.outer{
+    text-align: center;
+}
+.row{
+  width: auto;  
+  padding-left: 230px;
+  padding-bottom: 10px;
+}.card{
+    width: 300px;
+    height: 410px;
+    text-align: left;
+}

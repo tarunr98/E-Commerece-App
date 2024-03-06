@@ -1,0 +1,22 @@
+.ul{
+    list-style-type: none;
+    text-align: right;
+    overflow: hidden;
+    padding-top: 10px;
+}
+.ul li{
+    float: right;
+    padding-left: 10px;
+}
+.deleteCart{
+    text-align: center;
+}
+.checkOut{
+    text-align: center;
+}
+.home{
+    padding: 0;
+border: none;
+background: none;
+color:blue;
+}
